@@ -1,23 +1,12 @@
 html,
 body {
-    height: 100%;
-    display: flex;
-    flex-direction: column;
+    padding: 10px;
 }
 
 #chatdiv {
-    width: 50%;
+    width: 100%;
     height: 100%;
     border: 1px solid lightgray;
-}
-
-#chatdiv2 {
-    width: 50%;
-    height: 100%;
-    border: 1px solid lightgray;
-    display: flex;
-    flex-wrap: wrap;
-    align-content: center;
 }
 
 #maindiv{
@@ -25,6 +14,6 @@ body {
     flex: 1;
     background-color: white;
     display: flex;
-    margin: 0 auto;
+    height: 100vh;
 }
 

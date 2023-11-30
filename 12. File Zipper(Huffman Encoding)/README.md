@@ -1,2 +1,0 @@
-# CBHuffman
-CB Huffman
